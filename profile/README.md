@@ -1,6 +1,6 @@
 # Rokiro Studios
 
-### Engineering Ideas Into Reality
+### Research • Design • Develop • Build
 
 Rokiro Studios LLC is an independent research and product development company focused on creating innovative software, automation, hardware, and consumer products. We transform ideas into thoughtfully engineered solutions through research, design, prototyping, and technology.
 
